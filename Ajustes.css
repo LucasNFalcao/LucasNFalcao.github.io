@@ -1,0 +1,29 @@
+.Calvin_Hobbes{
+	background-image: url("imagem/Calvin&Hobbes.gif");
+	background-repeat: no-repeat;
+  	background-size: 100% 100%;
+	
+}
+
+#nome{
+	font-size: 400%;
+	text-align: center;
+	color: blue;
+}
+
+#blue{
+	color: blue;
+}
+
+#facebook{
+	color: white;
+}
+
+p{
+	text-decoration-color: white;
+	color: white;
+}
+
+li{
+	text-decoration-color: white;
+	color: white;
