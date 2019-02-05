@@ -1,7 +1,9 @@
-.Calvin_Hobbes{
-	background-image: url("imagem/Calvin&Hobbes.gif");
-	background-repeat: no-repeat;
-  	background-size: 100% 100%;
+.Calvin_Hobbes {
+   background-image: url(imagem/Calvin&Hobbes.gif);
+   background-repeat: no-repeat;
+   background-size: cover;
+   background-position-y: bottom;
+   background-position-x: 80%;
 	
 }
 
